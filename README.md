@@ -1,4 +1,4 @@
-# What you can see on this code?
+# What you can see on this code? React lifecycle, props management, component creation.
 
 ## You can use it to understand how to pass props and how to use Callbacks by parents components, along another tricks like console.log on buttons.
 
